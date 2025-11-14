@@ -1,7 +1,4 @@
 
-
-
-
 const Button = (props:{label:string,onClick:()=>void,disabled:boolean}) => {
   return (
     <div>
